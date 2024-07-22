@@ -50,3 +50,13 @@ Google Generative AI: For interpreting the drawings.
 Streamlit: For creating the user interface.
 Python: As the programming language.
 PIL: For image processing.   
+
+
+
+### Additional Tips
+- **Screenshots or GIFs:** Consider adding screenshots or GIFs to visually demonstrate the application's features.
+- **Detailed Instructions:** Ensure the installation and usage instructions are detailed enough for a beginner to follow.
+- **API Key:** Be cautious about sharing sensitive information such as API keys. Ensure they are securely managed and not exposed in the repository.
+
+This structure provides a comprehensive guide for anyone who wants to understand, install, and use your project.
+
